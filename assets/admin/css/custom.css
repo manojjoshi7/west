@@ -1,0 +1,21 @@
+.log_form {
+	margin: 0px auto;
+	padding: 20px 20px 40px 20px;
+	float: none;
+	border: 1px solid #ccc;
+}
+/*.log_form label{width:100px; text-align:right; }
+	.log_form input[type="text"], .log_form input[type="email"],.log_form input[type="password"]{width:55%; text-align:left;display:inline;}
+	*/
+	.comp_name {
+	font-weight: bold;
+	font-size: 21px;
+	line-height: 27px;
+	font-style: italic;
+}
+.comp_name em {
+	font-size: 34px;
+	font-style: italic;
+}
+.invoice{ font-size:12px !important; padding:10px; border:1px solid #333;}
+.invoice_header{ padding-bottom:10px;}
